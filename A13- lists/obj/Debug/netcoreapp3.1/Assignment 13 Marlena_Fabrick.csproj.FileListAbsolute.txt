@@ -1,0 +1,14 @@
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\obj\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\obj\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.AssemblyInfo.cs
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\obj\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\bin\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.exe
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\bin\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.deps.json
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\bin\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.runtimeconfig.json
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\bin\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.runtimeconfig.dev.json
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\bin\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.dll
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\bin\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.pdb
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\obj\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.dll
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\obj\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.pdb
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\obj\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.genruntimeconfig.cache
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\obj\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.csproj.AssemblyReference.cache
+C:\Users\marle\source\repos\Assignment 13 Marlena_Fabrick\obj\Debug\netcoreapp3.1\Assignment 13 Marlena_Fabrick.GeneratedMSBuildEditorConfig.editorconfig
